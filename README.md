@@ -20,4 +20,7 @@
 сети не зависит от выбора сетки, на которой ищется решение. К недостаткам относится сложность реализации и большее время, необходимое для получения решения
 (в сравнении с методом Рунге-Кутты 4-го порядка и методом Эйлера).
 
-Полный текст работы с подробным описанием метода приведен в pdf файле.
+Полный текст работы: https://github.com/MichaelNikulenkov/Neural-Cauchy-problem/blob/master/%D0%B4%D0%B8%D1%84%D1%84.%20%D1%83%D1%80-%D1%8F%20%D0%98%D0%9D%D0%A1.pdf
+
+Код:
+https://github.com/MichaelNikulenkov/Neural-Cauchy-problem/tree/master/NeuralDiffEqGradDescent/NeuralDiffEq
