@@ -1,0 +1,26 @@
+﻿  main.cpp
+c:\users\we\documents\cpp\projects\neuraldiffeq — finite diff — копия\neuraldiffeq\main.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\documents\cpp\projects\neuraldiffeq — finite diff — копия\neuraldiffeq\main.cpp(23): warning C4018: '<': signed/unsigned mismatch
+  neural_net_first_order.cpp
+c:\users\we\documents\cpp\projects\neuraldiffeq — finite diff — копия\neuraldiffeq\neural_net_first_order.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\documents\cpp\projects\neuraldiffeq — finite diff — копия\neuraldiffeq\neural_net_first_order.cpp(78): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\documents\cpp\projects\neuraldiffeq — finite diff — копия\neuraldiffeq\neural_net_first_order.cpp(97): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\documents\cpp\projects\neuraldiffeq — finite diff — копия\neuraldiffeq\neural_net_first_order.cpp(132): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\documents\cpp\projects\neuraldiffeq — finite diff — копия\neuraldiffeq\neural_net_first_order.cpp(139): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\documents\cpp\projects\neuraldiffeq — finite diff — копия\neuraldiffeq\neural_net_first_order.cpp(149): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\documents\cpp\projects\neuraldiffeq — finite diff — копия\neuraldiffeq\neural_net_first_order.cpp(155): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\documents\cpp\projects\neuraldiffeq — finite diff — копия\neuraldiffeq\neural_net_first_order.cpp(161): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\documents\cpp\projects\neuraldiffeq — finite diff — копия\neuraldiffeq\neural_net_first_order.cpp(166): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\documents\cpp\projects\neuraldiffeq — finite diff — копия\neuraldiffeq\neural_net_first_order.cpp(177): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\documents\cpp\projects\neuraldiffeq — finite diff — копия\neuraldiffeq\neural_net_first_order.cpp(189): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\documents\cpp\projects\neuraldiffeq — finite diff — копия\neuraldiffeq\neural_net_first_order.cpp(219): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\documents\cpp\projects\neuraldiffeq — finite diff — копия\neuraldiffeq\neural_net_first_order.cpp(224): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\documents\cpp\projects\neuraldiffeq — finite diff — копия\neuraldiffeq\neural_net_first_order.cpp(241): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\documents\cpp\projects\neuraldiffeq — finite diff — копия\neuraldiffeq\neural_net_first_order.cpp(247): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\documents\cpp\projects\neuraldiffeq — finite diff — копия\neuraldiffeq\neural_net_first_order.cpp(253): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\documents\cpp\projects\neuraldiffeq — finite diff — копия\neuraldiffeq\neural_net_first_order.cpp(259): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\documents\cpp\projects\neuraldiffeq — finite diff — копия\neuraldiffeq\neural_net_first_order.cpp(265): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\documents\cpp\projects\neuraldiffeq — finite diff — копия\neuraldiffeq\neural_net_first_order.cpp(341): warning C4018: '<': signed/unsigned mismatch
+  utils.cpp
+  Generating Code...
+  NeuralDiffEq.vcxproj -> C:\Users\we\Documents\CPP\Projects\NeuralDiffEq — Finite diff — копия\Debug\NeuralDiffEq.exe
